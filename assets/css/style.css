@@ -40,7 +40,21 @@ max-height:50%;
             margin-left: 4%;
             font-size: 50px;
         }
-
+        h2 {
+            margin-left: 10%;
+        }
         .intro {
             margin-left: 20%;
+        }
+
+        .shaebio {
+            margin-left: 40%;
+            padding:2%;
+            word-wrap:normal;
+            word-break:break-all;
+            max-width: 50%;
+            margin-top: -25%;
+        }
+        .shaephoto {
+            margin-left: 5%;
         }
