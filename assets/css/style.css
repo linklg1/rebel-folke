@@ -17,8 +17,8 @@ max-height:50%;
         top:0;
         overflow: hidden;
         font-size: 20px;
-        width: max-content;
-        }
+        width:fit-content;
+    }
         .topnav a {
             float: left;
             display: block;
@@ -48,13 +48,14 @@ max-height:50%;
         }
 
         .shaebio {
-            margin-left: 40%;
+            position: flex;
+            margin-left: 30%;
             padding:2%;
             word-wrap:normal;
             word-break:break-all;
-            max-width: 50%;
-            margin-top: -25%;
+            max-width: 30%;
+            margin-top: -15%;
         }
         .shaephoto {
-            margin-left: 5%;
+            margin-left: 7%;
         }
