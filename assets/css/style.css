@@ -1,19 +1,17 @@
 body{
     margin: 0;
     font-family:Arial, Helvetica, sans-serif;
-    }
+   }
+
     .main {
         margin-top: 30px; /* Add a top margin to avoid content overlay */
       }
-.pali {
-max-width:100%;
-max-height:50%;     
-}
-    .topnav { 
+ 
+.topnav { 
         padding: 10%;
         justify-content:space-evenly;
         align-items:flex-end;
-        position:fixed;
+        position:static;
         top:0;
         overflow: hidden;
         font-size: 20px;
@@ -23,7 +21,7 @@ max-height:50%;
             float: left;
             display: block;
             text-align: center;
-            padding: 14px 17px;
+            padding: 10px 10px;
             text-decoration: none;
             font-size: 17px;
             }
@@ -36,7 +34,7 @@ max-height:50%;
         h1 {
             color:green;
             width:fit-content;
-            margin-top: 15%;
+            margin-top: -5%;
             margin-left: 4%;
             font-size: 50px;
         }
@@ -44,7 +42,8 @@ max-height:50%;
             margin-left: 10%;
         }
         .intro {
-            margin-left: 20%;
+            margin-top: 5%;
+            margin-left: 10%;
         }
 
         .shaebio {
