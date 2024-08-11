@@ -1,5 +1,5 @@
 # rebel-folke
- JuneArtRaffle
+ AugustArtRaffle
 
  This website was created with sole purpose of an art raffle for Gaza
 
@@ -7,4 +7,4 @@
 
  folks seeing this code with concerns/comments/ questions 
  
- are welcome to message Linklg1 on github or instagram
+ are welcome to message Linklg1 on github or instagram or by email at: maze.humbler-07@icloud.com
