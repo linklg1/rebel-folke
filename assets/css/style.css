@@ -40,7 +40,7 @@ body{
             font-size: 50px;
         }
         h2 {
-            margin-left: 10%;
+            margin-left: 7%;
         }
         .intro {
             font-size: larger;
@@ -49,18 +49,20 @@ body{
         }
 
         .artistbio {
-            display:inline-block;
-            position:absolute;
-            margin-left:4%;
-            padding:4%;
+            display:flexbox;
+            justify-content: center;
+            padding:2%;
             word-wrap:normal;
             word-break:keep-all;
             max-width: 30%;
-            margin-top: 4%;
+            margin-top: -2%;
+            margin-left: 2%;
         }
         .artistphoto {
             border-style: solid;
             border-color: #ddd;
             border-width: 4px;
-            margin-left: 7%;
+            max-width: 450px;
+            max-height: 300px;
+            margin-left: 10%;
         }
