@@ -1,9 +1,9 @@
 body{
     margin: 0;
     font-family:"Raleway", sans-serif;
-    background-image: linear-gradient(160deg, rgba(190, 52, 52, 0.764) 7%, rgba(72, 178, 84, 0.578), #fff, rgba(44, 42, 42, 0.576) 80%);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
+    background-image: linear-gradient(165deg, rgba(190, 52, 52, 0.764) 7%, rgba(72, 178, 84, 0.578), #fff, rgba(44, 42, 42, 0.576) 80%);
+    background-size: 100% 200%;
+    background-repeat:no-repeat;
     scroll-behavior: smooth;
    }
 
@@ -106,3 +106,20 @@ body{
             margin-left: 8%;
 
         }
+
+.tickets {
+            font-size: 30px;
+            margin-top: 3%;
+            margin-left: 10%;
+        }
+h4 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #080808;
+    margin-left: 7%;
+}
+        .LK {
+            margin-top: 3%;
+            margin-left: 7%;
+            }
